@@ -1,22 +1,4 @@
-import random
 from random import *
-
-#
-
-# for i in range(1, 8):
-#     if (i == 5):
-#         continue
-#     print(i)
-#
-# for counter_hashtag in range(1, 11):
-#     print("#" * counter_hashtag)
-#
-# counter_hashtag = 1
-#
-# while counter_hashtag < 11:
-#     print("#" * counter_hashtag)
-#     counter_hashtag = counter_hashtag + 1
-
 
 def jogar():
     list_objects = ['tesoura', 'papel', 'pedra']
